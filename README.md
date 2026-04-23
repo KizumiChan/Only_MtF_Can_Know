@@ -1,5 +1,5 @@
-# Only_RLE_Can_Know
-Only_RLE_Can_Know — Things Only Real-Life Experience Can Teach
+# Only_MtF_Can_Know
+Only_Mtf_Can_Know — Things Only MtFs' Real-Life Experience Can Teach
 
 ## 如何贡献
 
@@ -25,6 +25,7 @@ Only_RLE_Can_Know — Things Only Real-Life Experience Can Teach
 - 改名、证件变更的经验
 - 心理支持资源、社群渠道
 - 任何你觉得“如果当年有人告诉我这些就好了”的东西
+- RLE 并不是一场表演，而是你终于不再表演另一个性别，开始学习如何作为一个普通人活在阳光下。
 
 ### 注意事项
 
