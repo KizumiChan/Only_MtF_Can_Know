@@ -32,3 +32,47 @@ Only_Mtf_Can_Know — Things Only MtFs' Real-Life Experience Can Teach
 - 不要泄露他人隐私
 - 不要鼓励危险行为（如过量用药、非法购药）
 - 医疗相关内容请注明“仅供参考，请遵医嘱”
+
+### 文件结构
+Only_RLE_Can_Know/
+│
+├── docs/                                 # 所有文章放这里，按主题分子文件夹
+│   ├── 01_frontline/                     # 三个核心战场：学校、家庭、社会
+│   │   ├── school.md
+│   │   ├── family.md
+│   │   └── society.md
+│   │
+│   ├── 02_medical/                       # 医疗相关
+│   │   ├── friendly.md                   # 友跨推荐
+│   │   ├── Suck_your_dick.md             # 避雷
+│   │   ├── diagnosis.md
+│   │   └── ...（其他文件）
+│   │
+│   ├── 03_legal/                         # 法律与身份
+│   │   ├── rename.md
+│   │   ├── gender-change.md
+│   │   └── campus-register.md
+│   │
+│   ├── 04_transition/                    # 外观与身体过渡
+│   │   ├── hair.md
+│   │   ├── clothing.md
+│   │   ├── voice.md
+│   │   └── skin-care.md
+│   │
+│   ├── 05_psychology/                    # 心理支持
+│   │   ├── closet.md
+│   │   └── emergency.md
+│   │
+│   └── 06_resources/                     # 资源汇总
+│       ├── hotline.md
+│       ├── community.md
+│       └── reading.md
+│
+├── images/                               # 所有配图
+│   ├── docs/                             # 与 docs 结构对应
+│   └── screenshots/                      # 截图
+│
+├── README.md                             # 入口：项目介绍 + 导航 + 如何贡献
+├── CONTRIBUTING.md                       # 贡献指南（怎么参与、怎么写）
+├── LICENSE                               # 许可证（CC BY-NC）
+└── .gitkeep                             # 保留空文件夹结构
