@@ -63,7 +63,4 @@ Only_Mtf_Can_Know — Things Only MtFs' Real-Life Experience Can Teach
   - **images/** —— 所有配图
     - docs/（与 docs 结构对应）
     - screenshots/
-  - **README.md** —— 入口：项目介绍 + 导航 + 如何贡献
-  - **CONTRIBUTING.md** —— 贡献指南
-  - **LICENSE** —— CC BY-NC
-  - **.gitkeep** —— 保留空文件夹结构
+
