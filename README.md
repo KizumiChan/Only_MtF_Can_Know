@@ -43,7 +43,7 @@ Only_Mtf_Can_Know — Things Only MtFs' Real-Life Experience Can Teach
     - **02_medical/** —— 医疗相关
       - friendly.md（友跨推荐）
       - Suck_your_dick.md（避雷）
-      - diagnosis.md
+      - /record ——医疗经历
     - **03_legal/** —— 法律与身份
       - rename.md
       - gender-change.md
